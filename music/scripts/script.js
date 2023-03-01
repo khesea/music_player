@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Drake (ft. 21 Savage)",
           artist: "Rich Flex",
-          cover: "https://assets.audiomack.com/vss-beats/075100bd276ddb99b71c968c56dfabe8.jpeg?width=1000&amp;height=1000&amp;max=true",
+          cover: "https://avatars.mds.yandex.net/i?id=33f7c01128873e9659d0436e488247f3a948751a-8491910-images-thumbs&n=13",
           source: "music/2.mp3",
           url: "https://github.com/khesea",
           favorited: false
@@ -68,7 +68,7 @@ new Vue({
         {
           name: "Metro Boomin",
           artist: "Walk 'Em N*gga Down",
-          cover: "https://i.pinimg.com/originals/11/7a/ef/117aefe15561ccb99743615ff6b9abe0.jpg",
+          cover: "https://i.pinimg.com/originals/b7/9f/78/b79f7828695fccb9459b191dac163f02.jpg",
           source: "music/8.m4a",
           url: "https://github.com/khesea",
           favorited: false
@@ -76,7 +76,7 @@ new Vue({
         {
           name: "Drake (ft. 21 Savage)",
           artist: "Circo Loco",
-          cover: "https://i.pinimg.com/originals/42/ba/ff/42baff1be09a57fe2484e20980cb0bd7.jpg",
+          cover: "https://i.pinimg.com/originals/a9/cd/d8/a9cdd8be18677288d430874ea2ff977d.png",
           source: "music/9.mp3",
           url: "https://github.com/khesea",
           favorited: false
@@ -198,7 +198,7 @@ new Vue({
       this.isTimerPlaying = true;
     };
 
-    
+
     for (let index = 0; index < this.tracks.length; index++) {
       const element = this.tracks[index];
       let link = document.createElement('link');
