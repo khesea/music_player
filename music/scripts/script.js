@@ -14,7 +14,7 @@ new Vue({
           artist: "Jimmy Cooks",
           cover: "https://avatars.mds.yandex.net/i?id=a9bf6b7886aa281915ecc4b4e8098e2f4d44ff38-3370318-images-thumbs&n=13",
           source: "music/1.mp3",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         },
         {
@@ -30,7 +30,7 @@ new Vue({
           artist: "On BS",
           cover: "https://i.ytimg.com/vi/q6ex4p6gqPI/maxresdefault.jpg",
           source: "music/3.mp3",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         },
         {
@@ -38,7 +38,7 @@ new Vue({
           artist: "Raindrops",
           cover: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/906f2033532859.56aef41f521c6.jpg",
           source: "music/4.m4a",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         },
         {
@@ -46,7 +46,7 @@ new Vue({
           artist: "Trance",
           cover: "https://i.ytimg.com/vi/S376RsHxn1A/maxresdefault.jpg",
           source: "music/5.m4a",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         },
         {
@@ -54,7 +54,7 @@ new Vue({
           artist: "Creepin",
           cover: "https://i.pinimg.com/originals/3c/a8/99/3ca899670697d2d22ba94fc4d0402c6a.png",
           source: "music/6.m4a",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         },
         {
@@ -62,7 +62,7 @@ new Vue({
           artist: "Niagara Falls",
           cover: "https://i.ytimg.com/vi/aMoKwYtsikQ/maxresdefault.jpg",
           source: "music/7.m4a",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         },
         {
@@ -70,7 +70,7 @@ new Vue({
           artist: "Walk 'Em N*gga Down",
           cover: "https://i.etsystatic.com/32400093/r/il/7de8e8/4464412320/il_fullxfull.4464412320_jgdj.jpg",
           source: "music/8.m4a",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         },
         {
@@ -78,7 +78,7 @@ new Vue({
           artist: "Circo Loco",
           cover: "https://i.pinimg.com/originals/a9/cd/d8/a9cdd8be18677288d430874ea2ff977d.png",
           source: "music/9.mp3",
-          url: "https://github.com/khesea",
+          url: "https://github.com/khesea/music_player/tree/main/music",
           favorited: false
         }
       ],
