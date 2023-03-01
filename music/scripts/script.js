@@ -68,7 +68,7 @@ new Vue({
         {
           name: "Metro Boomin",
           artist: "Walk 'Em N*gga Down",
-          cover: "https://i.pinimg.com/originals/b7/9f/78/b79f7828695fccb9459b191dac163f02.jpg",
+          cover: "https://i.etsystatic.com/32400093/r/il/7de8e8/4464412320/il_fullxfull.4464412320_jgdj.jpg",
           source: "music/8.m4a",
           url: "https://github.com/khesea",
           favorited: false
